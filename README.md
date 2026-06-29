@@ -10,7 +10,7 @@ I build practical data and analytics solutions that help teams move from manual 
 
 ## About Me
 
-- Focused on finance analytics, data modeling, and reporting automation
+- Focused on mining analytics, data modeling, and reporting automation
 - Interested in Microsoft Fabric, Power BI, semantic modeling, and process digitalization
 - Working on solutions that are robust now and ready for future platform transitions
 - Open to collaboration on business intelligence, data engineering, and analytics enablement
